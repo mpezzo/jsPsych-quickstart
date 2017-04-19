@@ -16,3 +16,17 @@ That's all! You can edit the files in the repository and the changes will show u
 1. The repository has two branches, master and gh-pages. Both have the same content, but only changes made to the gh-pages branch will be affect the website. The gh-pages branch is marked as the default branch, so you don't need to change any settings if you are editing the page using the GitHub interface.
 
 2. Renaming the repository will change the URL.
+
+## This is something 2
+
+This is not
+
+# This is something else 1
+
+This is not
+
+#### This is something more 4
+
+This is not
+
+### This is 3
